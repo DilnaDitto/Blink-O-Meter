@@ -1,47 +1,51 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Blink-O-Meter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [USELESS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [DILNA DITTO M] -[CHRIST COLLEGE OF ENGINEERING]
+- Member 2: [JIYA AB] - [CHRIST COLLEGE OF ENGINEERING]
 
 ### Project Description
-[2-3 lines about what your project does]
+[We’ve built a tool called Blink-o-Meter, which can estimate a person’s confidence level just by analyzing their blinking rate using a webcam. The calmer you are, the fewer blinks per minute you have, and the higher your confidence score.”
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Fun hook:
+“It can even tell if you’re movie-villain-level calm 😈… or just cutting onions 🧅"]
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-[Languages used: Python 3.9+]
+
+-[Frameworks used: None (pure Python)]
+
+-[Libraries used: OpenCV, MediaPipe, NumPy]
+
+-[Tools used: Visual Studio Code, Python pip, Webcam]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Main components: Standard USB/HD Webcam]
+
+-[Specifications: 720p or higher resolution recommended]
+
+-[Tools required: A laptop/PC running Windows, macOS, or Linux]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[pip install opencv-python mediapipe numpy]
+
 
 # Run
-[commands]
+[python blinkometer.py]
 
 ### Project Documentation
 For Software:
@@ -56,18 +60,6 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -88,9 +80,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [DILNA DITTO M]: [ Code implementation, AI/MediaPipe integration, presentation]
+- [JIYA AB]: [ Code implementation, testing,debugging ]
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
